@@ -1,0 +1,12 @@
+I learnt the following 4 commands:
+git init initializes an new or existing repository in the current directory. If not initialized?
+git add 
+git status shows the previous commits(recent?) and the tracked and untracked files/changes? 
+git commit -m "#commit message here without the hash needed of course"
+git commit -a "commits all unstaged changes directly" doesn't sound very good, but may be needed in certain circumstances.
+git branch - create seperate branch for a feature
+git switch [branch-name] -switch to a branch of name specified in place of the place-holder
+git remote add origin https://myusername.github.com/pathtoThisRepo (the conventional name for my personal account is origin)
+
+git push -flag branchName [optional if resetting remote repo to older version etc :--force ]: (u) fetch upstream changes
+git fetch -flag branchName --flag2 : (u) is for upstream : 
