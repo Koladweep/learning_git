@@ -3,3 +3,4 @@ git init initializes an new or existing repository in the current directory. If 
 git add 
 git status shows the previous commits(recent?) and the tracked and untracked files/changes? 
 git commit -m "#commit message here without the hash needed of course"
+git commit -a "commits all unstaged changes directly" doesn't sound very good, but may be needed in certain circumstances.
